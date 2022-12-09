@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [GlobalinGroup](https://www.globalingroup.az)
 
+- 🌱 I’m currently learning **React JS**
+
 - 📫 How to reach me **mirafgan@div.edu.az**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yGjkQdmxndZzAwpkOkVsrxwEo6Vh4A8f/view?usp=share_link](https://drive.google.com/file/d/1yGjkQdmxndZzAwpkOkVsrxwEo6Vh4A8f/view?usp=share_link)
