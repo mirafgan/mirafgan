@@ -58,8 +58,6 @@
         <img
           src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"
           alt="jquery"
-          width="40"
-          height="40"
         />
       </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -82,24 +80,21 @@
         <img
           src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"
           alt="ant-design"
-          width="40"
-          height="40"
+          
         />
       </a>
       <a href="https://mui.com" target="_blank" rel="noreferrer">
         <img
           src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"
           alt="material-ui"
-          width="40"
-          height="40"
+          
         />
       </a>
       <a href="https://mui.com" target="_blank" rel="noreferrer">
         <img
           src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
           alt="styled-components"
-          width="40"
-          height="40"
+          
         />
       </a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
