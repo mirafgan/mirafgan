@@ -56,19 +56,7 @@
           width="40"
           height="40"
         />
-        <img
-          src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"
-          alt="ant-design"
-        />
-        <img
-          src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"
-          alt="material-ui"
-        />
-        <img
-          src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
-          alt="styled-components"
-        />
-        <img
+            <img
           src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
           alt="git"
           width="40"
@@ -86,5 +74,18 @@
           width="40"
           height="40"
         />
+        <img
+          src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"
+          alt="ant-design"
+        />
+        <img
+          src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"
+          alt="material-ui"
+        />
+        <img
+          src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
+          alt="styled-components"
+        />
+        
     </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirafgan&show_icons=true&locale=en&layout=compact" alt="mirafgan" /></p>
