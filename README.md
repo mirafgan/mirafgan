@@ -84,7 +84,5 @@
         <img
           src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
           alt="styled-components"
-        />
-        
-    </p>
+        /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirafgan&show_icons=true&locale=en&layout=compact" alt="mirafgan" /></p>
